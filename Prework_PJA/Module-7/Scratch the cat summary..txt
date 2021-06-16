@@ -1,0 +1,11 @@
+I built an app like this with several students last semester as part of AP Computer Science principles. 
+
+This is not quite as fully functional as I would like. The code derives in part from several sources on the internet which I did not have time to chase down, but fully 
+acknowledge were major influences of the creative (possibly) use of the "forever loop" structures. 
+
+Here is the link to my (still incomplete) version.
+
+https://scratch.mit.edu/projects/544501523
+
+
+

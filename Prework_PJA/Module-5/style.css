@@ -1,0 +1,55 @@
+#h1centered {
+    text-align: center;
+}
+
+#p-red {
+    color:red;
+}
+
+#p-blue {
+    color:blue;
+}
+
+#p-green {
+    color:green;
+}
+#p-big {
+    font-size: 40px;
+}
+
+#p-tiny {
+    font-size: 8px;
+}
+
+#p-bold {
+    font-weight: bold;
+}
+
+#p-cursive {
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#p-centered {
+    text-align: center;
+}
+
+#p-bob {
+    font-size: 35px;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    font-size: 30px;
+    font-family: "Verdana";
+    text-align: right;
+    color: blue;
+}
+
+#styledImage {
+        border: 8px solid blue;
+}   
+
+

@@ -1,0 +1,6 @@
+For this assignment, I did not have much time to focus. I believe there are still errors
+with possibly the javascript and css.
+I mainly tried to fix the problems with the first several content blocks
+of HTML. 
+I can at least see the picture of the dog clearly and it is aligned with the 
+descriptive text. 
